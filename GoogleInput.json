@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "optimal-plate-250714",
+  "private_key_id": "097a530c9441956b46924407bffec44d9f6cf144",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDcvNl83JsC4beV\nIhfRiSyE6KC5RONdYFSWSe9myKP/EnntwLZcAG1mtxDE+xNA8y6xWgSgwXttzNHJ\nmzpR5mmyqEf+K0G1tdyvMS+jLysVsybLAQsCCBhQWv2SXb8R2YkKISRhHN/aROl0\nn/KlwTSa+mDWuSeb8cyp4n375/uRsQMx7y2e9+O0ceoCOeJSLKajE4cuSryjebmX\n2A/pyQiKkP+sSbO6cOvaN1hsD7DDXr17b/mqQ+wwJmpVJ2Iz3fs0IpsDjOVjwTj4\npwS4A3wzV00GXciQYqxbTQQB1THxUHYnaTw2F/iY2PTUONFSucsmUnlCqL4elE0K\nCoK+p64VAgMBAAECggEAKKUfePXYFy4/0xadgyg6idiZ67NrGEEKIkhH7EmqpOee\nivBOw98SRfUUgejncTC2GtMEAiPOWff6cyCBmx4NvWduJjeJ2G89zQaGCoq/aLX9\nwSiWgc/Cxl0SzvYzHhLLwJE8tSMPdw30XNSs5eePC7Bpz2/1gqoB8RAy+YUMVhWF\n4+pN9Ipk80LGhI0fRlROgToFZ2NUgJB+Xqt65nyU8Mg3Z/XwO65cLBinrEzr6wZK\nufCKXToBi/dIvlDyKrDQIYsKcyqQ1aVYrZPgnMsFVrzf77INodkrjMVF3Kl9evZW\nW7hlG2F4I7ead9NLc+zNCRJbh4zwh3CWAlenWUDJSwKBgQD6N/c7VbPr+Kr90eBK\nGIgnf1/a0ttZppLx2molPsRUIs/ID7z69DgNA44dytRLmuO9zOvYCNdiNRgEII0U\nlz63wfNbmD4SDYPjjvlwaVT1FRLahszS0LVWSJNUh4fPcVMoYmwtAqVyDTG8kmNU\n+zDNt8dr9Jfln7946chicEY1UwKBgQDh1oFUwRiTHLhiloDH1JaCcAIRHXFcpatq\nC3qXLlgTyU3UjIlSy8nyDzB+kZA/HKjpQOs/Bwq0bjWelxWx3cVQhwt93mouVHFz\nF8JNJucU4BWn9MNjqRwN5Mz/fNyY9RLMISW69E1hIXNj18TZGHMsFYgPA75CBDZD\n/+SUOLJ59wKBgQCc2paOSIRYaXLvWDCs4kH/2JZDO6krwwMcv5mIrZcvUv9D37HM\n82lrpw3g2TRKDNe1NI+nxqsWMkhS1gD6pnE3ikq+4WoPsQ87iHYPpMgQNtyxxo0B\nnrn+U9Kfy7I0NUs25rP/Z0hFfcXu+ylvrWODojBOGW9bD9BcwNjP9KfeZwKBgEXJ\nn5WtRgbP7Tqp/4nA6/HK4xie3JUgrOPMQEnPjHAw2NhBxX3Mc89VWksCeGzIUnoi\nEZAcgPZYyEEFtzKLsZm84ZQ30uAWQCiswuJMj0QoKwkH3glCDOVOOvsIfrLVqMVj\nyOEI9ZB6YcoMt0vO/mg1DyJ0qaqE2rAQt3YGP0DpAoGACaJVRQOTjYT6CahTcr2k\n2c8Y/D2YnNOEl5YSWw+JllXtzPV9IsmBcFwlZlrA0Nqanyvz/xA3vFQ9Mvtmb3hv\nQFv9zwrLd9EHwgx2xIOzdZuy2hVfIp8EwvfZ/1LmDUnNrXgDjBgKq8S+73eagBKR\nDZT3jKx5IrRK7VP5D1tHRWE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "textdetection@optimal-plate-250714.iam.gserviceaccount.com",
+  "client_id": "101381390352646076807",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/textdetection%40optimal-plate-250714.iam.gserviceaccount.com"
+}
